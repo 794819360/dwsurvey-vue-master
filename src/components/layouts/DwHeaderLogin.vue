@@ -15,7 +15,7 @@
                 </a>
               </el-col>
               <el-col :span="16">
-                <div style="padding-left: 60px;color: white;">DWSurvey OSS 社区版 - Vue</div>
+                <!-- <div style="padding-left: 60px;color: white;">DWSurvey OSS 社区版 - Vue</div> -->
               </el-col>
               <el-col :span="4" style="text-align: right;" >
                 <div>

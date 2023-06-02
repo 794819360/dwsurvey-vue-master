@@ -18,7 +18,8 @@
                 <div>
                   <el-dropdown @command="handleCommand">
                     <span class="el-dropdown-link" >
-                      {{ userName }} <i class="el-icon-arrow-down el-icon--right"></i>
+                      {{ userName }}
+                      <!-- <i class="el-icon-arrow-down el-icon--right"></i> -->
                     </span>
                     <el-dropdown-menu slot="dropdown">
                       <el-dropdown-item command="myAccount">我的账号</el-dropdown-item>

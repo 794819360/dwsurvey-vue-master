@@ -9,10 +9,10 @@
       <i class="el-icon-user"></i>
       <span slot="title">我的账号</span>
     </el-menu-item>
-    <el-menu-item index="/dw/user/pwd">
+    <!-- <el-menu-item index="/dw/user/pwd">
       <i class="el-icon-key"></i>
       <span slot="title">修改密码</span>
-    </el-menu-item>
+    </el-menu-item> -->
   </el-menu>
 </template>
 
